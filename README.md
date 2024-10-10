@@ -11,20 +11,20 @@ Matplotlib
 Seaborn
 Numpy
 Jupyter Notebook (optional, for interactive analysis)
-Project Structure
-lua
-Copy code
-|-- data/
-|   |-- amazon_sales_data.csv
-|-- notebooks/
-|   |-- amazon_sales_analysis.ipynb
-|-- scripts/
-|   |-- sales_analysis.py
-|-- README.md
-Key Features
-Data Import & Cleaning: The raw sales data is imported from CSV, followed by preprocessing steps to clean and format the data for analysis.
+</br></br></br>
+Project Structure</br>
+Copy code</br>
+|-- data/</br>
+|   |-- amazon_sales_data.csv</br>
+|-- notebooks/</br>
+|   |-- amazon_sales_analysis.ipynb</br>
+|-- scripts/</br>
+|   |-- sales_analysis.py</br>
+|-- README.md</br>
+Key Features</br>
+Data Import & Cleaning: The raw sales data is imported from CSV, followed by preprocessing steps to clean and format the data for analysis.</br></br>
 
-Sales Analysis:
+Sales Analysis:</br></br>
 
 Product Analysis: Visualizations such as bar plots and pie charts for understanding which products contribute the most to sales.
 Revenue and Profit Analysis: Line and scatter plots showing correlations between revenue, profit, and cost.
