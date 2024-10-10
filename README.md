@@ -1,3 +1,6 @@
+## Amazon Sales Dara Analysis Dashboard:</br>
+[Dashboard Link](https://public.tableau.com/app/profile/meenakshi.satish/viz/Amazonsales_17285151457710/Amazon?publish=yes)</br>
+
 Amazon Sales Data Analysis
 Overview
 This project provides a detailed analysis of Amazon sales data with a focus on understanding revenue generation, profitability, and cost structures across different regions, product types, and sales channels.
